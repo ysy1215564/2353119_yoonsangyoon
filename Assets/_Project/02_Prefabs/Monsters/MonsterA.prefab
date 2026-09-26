@@ -169,9 +169,6 @@ MonoBehaviour:
   hpDisplayHeightOverride: 1.8
   idleFrames:
   - {fileID: 21300000, guid: e4456af0740e17545b0a83fdfc813c2a, type: 3}
-  - {fileID: 21300000, guid: 7734f0bc23d7f5643bf3d47ace387911, type: 3}
-  - {fileID: 21300000, guid: 956562424efca4648a1eb742999361c1, type: 3}
-  - {fileID: 21300000, guid: 4d635cc10c46fa84da56628b1942b6e9, type: 3}
   walkFrames:
   - {fileID: 21300000, guid: 16f3c00d93a3c944e952fc5b7871ba2b, type: 3}
   - {fileID: 21300000, guid: 78b9ff96d51640f47984a2745ff9e7d6, type: 3}
