@@ -186,6 +186,8 @@ MonoBehaviour:
   attackFrames:
   - {fileID: 21300000, guid: bbfa598819ea4e10941cd0ccd8d046d7, type: 3}
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
+  - {fileID: 21300000, guid: 3ab563e005e246a43be566d30215e9f6, type: 3}
+  - {fileID: 21300000, guid: e18f31fff56014c459b1529c4d6d110e, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
@@ -196,6 +198,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c47be02a12214d14a1d10ff5e23b0cc7, type: 3}
   - {fileID: 21300000, guid: d098c63708c7d204ea0672e65ecd1514, type: 3}
   - {fileID: 21300000, guid: 664ab7c2e228db94aab8a58042017fd0, type: 3}
+  - {fileID: 21300000, guid: 816c9ab7b5edd0c4ca50a45a198019c5, type: 3}
+  - {fileID: 21300000, guid: 1778b226031a841488b092c19119762a, type: 3}
   idleFrameTimes:
   - 0.1667
   - 0.1667
@@ -221,7 +225,7 @@ MonoBehaviour:
   - 0.1429
   - 0.1429
   - 0.1429
-  attackDamageFrame: 2
+  attackDamageFrame: 4
   attackSfx:
     clip: {fileID: 8300000, guid: 00edbd345f77b5145a339ed4da43f264, type: 3}
     volume: 1
@@ -234,4 +238,4 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: d553eeb1ef3017143ab170f8426c29a9, type: 3}
     volume: 1
     pitchVariance: 0.05
-  attackSwingFrame: 1
+  attackSwingFrame: 3

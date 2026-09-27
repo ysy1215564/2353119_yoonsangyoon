@@ -426,7 +426,7 @@ MonoBehaviour:
   attack1EffectStartFrame: 5
   attack1EffectOffset: {x: -1.85, y: 2.6, z: 0}
   attack1EffectScale: {x: 0.9, y: 0.9, z: 1}
-  attack1DamageFrame: 6
+  attack1DamageFrame: 5
   attack2EffectRenderer: {fileID: 2680925471173150453}
   attack2EffectFrames:
   - {fileID: 21300000, guid: d6759c0dd4348ef43be48615c9292674, type: 3}
