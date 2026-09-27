@@ -319,7 +319,7 @@ MonoBehaviour:
   bodyStopDistance: 1.45
   attackCooldown: 1.3
   hitInvincibleTime: 0.25
-  hitKnockbackDistance: 0.55
+  hitKnockbackDistance: 0.03
   deathHoldTime: 1
   respawnDelay: 2
   detectRange: 8
@@ -329,13 +329,13 @@ MonoBehaviour:
     m_Bits: 1
   groundCheckFootOffsetY: 0.05
   groundCheckDistance: 0.25
-  hurtBoxSize: {x: 1.6, y: 1.4}
-  hurtBoxOffset: {x: 0, y: 1.35}
-  attack1BoxSize: {x: 3.54, y: 1.8}
-  attack1BoxOffset: {x: -1.35, y: 0.8}
-  attack2BoxSize: {x: 5.2, y: 2.4}
-  attack2BoxOffset: {x: -2.6, y: 1.2}
-  hpDisplayHeightOverride: 3.43
+  hurtBoxSize: {x: 3, y: 9}
+  hurtBoxOffset: {x: 0, y: 4.5}
+  attack1BoxSize: {x: 2.7, y: 5}
+  attack1BoxOffset: {x: -2, y: 2.5}
+  attack2BoxSize: {x: 5.2, y: 3.6}
+  attack2BoxOffset: {x: -2.6, y: 1.8}
+  hpDisplayHeightOverride: 5
   defaultFramesPerSecond: 8
   spriteRenderer: {fileID: 0}
   idleFrames:
@@ -363,13 +363,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9e94db83f06a43b79cfeaa391ed8bad8, type: 3}
   - {fileID: 21300000, guid: 081c915afbd94b59b3defef1b2d3152a, type: 3}
   - {fileID: 21300000, guid: 2aa931e8fc1945e99f792cbc9fccb406, type: 3}
-  - {fileID: 21300000, guid: d3fc35cd37e24ce6bf3d6721f71e85aa, type: 3}
-  - {fileID: 21300000, guid: da5ed26dcc9e41a39e5482b09d5bc8d3, type: 3}
-  - {fileID: 21300000, guid: 4ae798de9f3343f0b2972afbc2c6f437, type: 3}
-  - {fileID: 21300000, guid: 324a9b9ef2c34a8684316da47df72209, type: 3}
-  - {fileID: 21300000, guid: 22886b5d7a0a4ec5bf291ec511c0fff6, type: 3}
-  - {fileID: 21300000, guid: fadaaf9567214df1a3cba58df1de47f7, type: 3}
-  - {fileID: 21300000, guid: a8dca120e455457f90b7308870259292, type: 3}
   attack2Frames:
   - {fileID: 21300000, guid: 56e0ca3da8f044d18d4d1e87ee3ff388, type: 3}
   - {fileID: 21300000, guid: d4b5b1be4b2f4945bed29169a1da97ce, type: 3}
@@ -388,16 +381,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: bdf049d829b74543a24bf6d984e660dd, type: 3}
   - {fileID: 21300000, guid: 5d9336ffda5e43c68c6f866d4f6bee0c, type: 3}
   - {fileID: 21300000, guid: c8c7d13c8402444eafdc9153d67f2958, type: 3}
-  - {fileID: 21300000, guid: 5efaeacbb4cc4f758ea8faded62954e2, type: 3}
-  - {fileID: 21300000, guid: fd3468703f4640eb8555419712b7a513, type: 3}
-  - {fileID: 21300000, guid: 009e118d9a5e464d91130ac7e8d4c712, type: 3}
-  - {fileID: 21300000, guid: 6d4c2f663f864e089f390658faf46dc0, type: 3}
-  - {fileID: 21300000, guid: a64e7a2bfdca41a6aefebaaaf51faf3c, type: 3}
-  - {fileID: 21300000, guid: 23ea812935964355b315e1550170f60e, type: 3}
-  - {fileID: 21300000, guid: 8a8df7cae5ea42219679da804f8efe08, type: 3}
-  - {fileID: 21300000, guid: 74bf376908514ebb865acd20dee0a33a, type: 3}
-  - {fileID: 21300000, guid: 0f7592182a56422ea9c4681b7a423d87, type: 3}
-  - {fileID: 21300000, guid: 0670f4c5f08846e484fce0369083d077, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 8b675f076ab9e1446925d48fe3c7f467, type: 3}
   - {fileID: 21300000, guid: 019310e61a4b4fc498a517e2997f9ed7, type: 3}
@@ -407,6 +390,21 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 7610e44210efa7b48b2df577881f018a, type: 3}
   - {fileID: 21300000, guid: 6c4f3a14cc7481047bbab48dd9109044, type: 3}
   - {fileID: 21300000, guid: 934749e52f2961040b96612037ca6220, type: 3}
+  - {fileID: 21300000, guid: 21fb0cd4e8cabe24f9182d55a713c2e4, type: 3}
+  - {fileID: 21300000, guid: 62259a1208872874b8417e97713b2630, type: 3}
+  - {fileID: 21300000, guid: 5de9fed515f17674fa10871f5c41b317, type: 3}
+  - {fileID: 21300000, guid: ac88679a7cee6c74c954acf836016579, type: 3}
+  - {fileID: 21300000, guid: d1ef5c4e13441ba49abaac8964db8d17, type: 3}
+  - {fileID: 21300000, guid: 5209a1900566e8a46b712d15814b2493, type: 3}
+  - {fileID: 21300000, guid: 7a927011a9418c54f965ff59019f0b4f, type: 3}
+  - {fileID: 21300000, guid: 937f272a5dd685747a7a9647ecfe1f24, type: 3}
+  - {fileID: 21300000, guid: 367e5ab56fca6fd4d97be252f943a3de, type: 3}
+  - {fileID: 21300000, guid: 1edeec09e91e90e4fb265db67504ef83, type: 3}
+  - {fileID: 21300000, guid: 72129768f67c3014eb7c00c8048a3d8b, type: 3}
+  - {fileID: 21300000, guid: f6165052afcda2b4b8292e6cdc4c4c51, type: 3}
+  - {fileID: 21300000, guid: 94ad71887f37d1643ac4bc9d2bd7a8b4, type: 3}
+  - {fileID: 21300000, guid: b0812c4ddbd30ae46a722f19f4c3ec79, type: 3}
+  - {fileID: 21300000, guid: 1caecc3a0cce6724488f13208e9c9257, type: 3}
   reverseWalkFrameOrder: 1
   idleFrameTimes: []
   walkFrameTimes: []
@@ -420,20 +418,25 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 764680546e160784abebe20710349412, type: 3}
   - {fileID: 21300000, guid: 5d39a9910805b2d4cacf9dbc85c0606b, type: 3}
   - {fileID: 21300000, guid: e34c8513d07e9c84ea16c324ea095e6c, type: 3}
-  attack1EffectStartFrame: 15
+  - {fileID: 21300000, guid: 07e919d1033aa214589724bee577d0f9, type: 3}
+  - {fileID: 21300000, guid: 8d1c1c62fa306164c9f37016884f2401, type: 3}
+  - {fileID: 21300000, guid: 67bd53e14033b3a44963f963527f5cfc, type: 3}
+  - {fileID: 21300000, guid: 5f9cdc797f93f1747be8b93d04ef3640, type: 3}
+  - {fileID: 21300000, guid: c780672f8dcffef48b79c3f42fc303c0, type: 3}
+  attack1EffectStartFrame: 5
   attack1EffectOffset: {x: -1.85, y: 2.6, z: 0}
   attack1EffectScale: {x: 0.9, y: 0.9, z: 1}
-  attack1DamageFrame: 15
+  attack1DamageFrame: 6
   attack2EffectRenderer: {fileID: 2680925471173150453}
   attack2EffectFrames:
   - {fileID: 21300000, guid: d6759c0dd4348ef43be48615c9292674, type: 3}
   - {fileID: 21300000, guid: 0845730eccfdba442b0c30b0b11d1718, type: 3}
   - {fileID: 21300000, guid: 6a08dce2c91df4e4e8b08438e98e8291, type: 3}
   - {fileID: 21300000, guid: cfcca91f464e8b84393b476a16e2e55f, type: 3}
-  attack2EffectStartFrame: 15
-  attack2EffectOffset: {x: -3.62, y: 2.2, z: 0}
-  attack2EffectScale: {x: 0.4, y: 0.4, z: 1}
-  attack2DamageFrame: 15
+  attack2EffectStartFrame: 8
+  attack2EffectOffset: {x: -4, y: 2, z: 0}
+  attack2EffectScale: {x: 0.6, y: 0.6, z: 1}
+  attack2DamageFrame: 8
   attack1Sfx:
     clip: {fileID: 8300000, guid: 50419ca7116ccb94a9ba71f41db6fca0, type: 3}
     volume: 1
