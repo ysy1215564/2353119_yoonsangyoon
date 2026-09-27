@@ -292,7 +292,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 5.8333335, y: 5.8333335}
+    oldSize: {x: 5.8333335, y: 9.166667}
     newSize: {x: 5.8333335, y: 5.8333335}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -314,7 +314,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHp: 7
-  moveSpeed: 1.8
+  moveSpeed: 0.2
   attackRange: 3.2
   bodyStopDistance: 1.45
   attackCooldown: 1.3
@@ -344,43 +344,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2e270bbdce1b8c748b291af36e69ca4d, type: 3}
   - {fileID: 21300000, guid: f02973389db04a547b4ce6da3f789cb6, type: 3}
   - {fileID: 21300000, guid: 84405976c0b15ad4d8224fea1bf56b79, type: 3}
-  - {fileID: 21300000, guid: 91f59d5de7ecd044b94c9e275409a706, type: 3}
-  - {fileID: 21300000, guid: 674b9becc92ed3441ab266775f687336, type: 3}
-  - {fileID: 21300000, guid: bd8c448bb5591a84aa0d05e0475abaa9, type: 3}
-  - {fileID: 21300000, guid: 5b963035e43230c4f8b0ea646b4c0c87, type: 3}
-  - {fileID: 21300000, guid: 199c670a7a11d8a438e23fe6a74de016, type: 3}
-  - {fileID: 21300000, guid: e4d493ff8253dbf45833281d301b6b24, type: 3}
-  - {fileID: 21300000, guid: b44920f9ac2cb0c448d9abb029522fc4, type: 3}
-  - {fileID: 21300000, guid: 1a7a0b16ed1415641aeb0c0f42829f6a, type: 3}
   walkFrames:
   - {fileID: 21300000, guid: 70820e771581e9a4293cf794e71550a4, type: 3}
   - {fileID: 21300000, guid: 8d49fe018b41619419edf91fc25fd10e, type: 3}
   - {fileID: 21300000, guid: aaca677747e4aba4a94c58675b927f04, type: 3}
   - {fileID: 21300000, guid: b55e4887157dfea469eb6e0754f33e50, type: 3}
   - {fileID: 21300000, guid: 4e124723385a29f45b682889de689cfa, type: 3}
-  - {fileID: 21300000, guid: bca804e5bdc207044b4868bb9b7c0bac, type: 3}
-  - {fileID: 21300000, guid: bf30235c4d7f78d4c9e3297743e16c31, type: 3}
-  - {fileID: 21300000, guid: 33aaee87dc6cf8b4f9403fb208dc6187, type: 3}
-  - {fileID: 21300000, guid: 09180cefc456f524481f1c3eb429cf47, type: 3}
-  - {fileID: 21300000, guid: 5dccdb4cafe40a3488eedaefa34dacfa, type: 3}
-  - {fileID: 21300000, guid: 54950411d7162c44f89496064b9a03bb, type: 3}
-  - {fileID: 21300000, guid: 89b56481a719d8842bbaf5002af6ebce, type: 3}
-  - {fileID: 21300000, guid: f0d0c8e62e2c7d8459d3dc7e6a572a69, type: 3}
-  - {fileID: 21300000, guid: c603c7775df44654c83922187bf43b57, type: 3}
-  - {fileID: 21300000, guid: 976848ed45111754a8352dcb91fe39c9, type: 3}
-  - {fileID: 21300000, guid: 77fc62a660fee7146b00b71112303c72, type: 3}
-  - {fileID: 21300000, guid: 4879e0e302104564dbeb623881e0c6a1, type: 3}
-  - {fileID: 21300000, guid: dcbb31841326cd642a4905a97fcf26a4, type: 3}
-  - {fileID: 21300000, guid: 5c182070514cdfb428a6170d4c5c8d4a, type: 3}
-  - {fileID: 21300000, guid: 042568fdbd04c794bbf1957bf0e240f0, type: 3}
-  - {fileID: 21300000, guid: 9f04de9b79fada243810829ee08cda6e, type: 3}
-  - {fileID: 21300000, guid: 5688cd5a99e5a0a4f900e57eed495ae2, type: 3}
-  - {fileID: 21300000, guid: 4b7770aa10c359041b6f59f6bd5b1537, type: 3}
-  - {fileID: 21300000, guid: 6e5c1fa0a485c1e4782b68d5321cd53a, type: 3}
-  - {fileID: 21300000, guid: 1265af6669fbfc04d817d1928b37a736, type: 3}
-  - {fileID: 21300000, guid: f543606206e64b946b7746cedc0f74f1, type: 3}
-  - {fileID: 21300000, guid: d08224412d42aaa47a872f6ed2afc227, type: 3}
-  - {fileID: 21300000, guid: 6e551ab5a7d761e429421da1ff9d069c, type: 3}
   attack1Frames:
   - {fileID: 21300000, guid: 0407d00ebe3e43baa881974acc52d9f4, type: 3}
   - {fileID: 21300000, guid: 3e2a0a1b9f0946bf866c4ca72432f6b7, type: 3}
