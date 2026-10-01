@@ -182,16 +182,19 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 5f2a78a8b3e72444fb41a849aea5bf42, type: 3}
   - {fileID: 21300000, guid: 8ad19d8f1d3f0e24898971be79adb276, type: 3}
   - {fileID: 21300000, guid: 76e20409298edee4a859232edace7661, type: 3}
-  - {fileID: 21300000, guid: 3fcf7c5493abe6c488d4867870b07b27, type: 3}
-  - {fileID: 21300000, guid: 429efd2cc20712b4db148dae1b8c4580, type: 3}
-  - {fileID: 21300000, guid: 569cb3225a031ce46b73dd25c48130cb, type: 3}
-  - {fileID: 21300000, guid: 5547cb5a8260ea349aa4ae0ea6b56c64, type: 3}
   attack2DashFrames:
   - {fileID: 21300000, guid: e5f3afeefb119aa438a0238437bf2f6f, type: 3}
   - {fileID: 21300000, guid: ce90a94cc2f82434b99b213584f53fe1, type: 3}
+  - {fileID: 21300000, guid: 69223f8878fdad5488eba2902d923b5b, type: 3}
+  - {fileID: 21300000, guid: 4d3bea07f8001994d841940072fd656f, type: 3}
+  - {fileID: 21300000, guid: ad781d5cc39117946a56bb81b7d06a22, type: 3}
+  - {fileID: 21300000, guid: ad781d5cc39117946a56bb81b7d06a22, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: f37717164d1186c43990a5e3700d6678, type: 3}
   - {fileID: 21300000, guid: 8d9e2f0a1c7b4d348a6f93c2e5b71d04, type: 3}
+  - {fileID: 21300000, guid: 41b3bcd607b93a04f9c4fe2a374416f0, type: 3}
+  - {fileID: 21300000, guid: aa4604bdda7188b4f9e9f58a3d457a77, type: 3}
+  - {fileID: 21300000, guid: c78b19929879ccd419bfcee9af034e02, type: 3}
   deathFrames:
   - {fileID: 21300000, guid: 2c534a9641cffc948b7f36d55d0dd729, type: 3}
   - {fileID: 21300000, guid: 5ec38513cbdc84246b4c7733dd36cc6d, type: 3}
@@ -203,9 +206,15 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9a7e0272aff274c4faa5427db6dad964, type: 3}
   - {fileID: 21300000, guid: c11b8e945cee5e74c8bfe96d89d4e999, type: 3}
   - {fileID: 21300000, guid: a9e4f68c7b4e47129d1d2b7f2b1c03e6, type: 3}
+  - {fileID: 21300000, guid: 3e5ffe75ecc59be4692c7b783df61af7, type: 3}
   projectileFrames:
   - {fileID: 21300000, guid: c019f4cb862084842b4bc8e44945d21e, type: 3}
   - {fileID: 21300000, guid: 3d3a7d0252b7a5f4e864560970f4ace4, type: 3}
+  - {fileID: 21300000, guid: e7683bc39f6697948a14e057b0879e54, type: 3}
+  - {fileID: 21300000, guid: fbeb87cff900af64ab375c07d2fb3473, type: 3}
+  - {fileID: 21300000, guid: 2a276843a92b0b4448d1eacb9911b2cd, type: 3}
+  - {fileID: 21300000, guid: d3d2737badcda124ab00b6ff15e8ba89, type: 3}
+  - {fileID: 21300000, guid: d0e96befb0e46594eab4cd10cfe9d60e, type: 3}
   projectileTarget: {fileID: 0}
   projectileSpawnOffset: {x: 0.2, y: 3.3, z: 0}
   projectileTargetAimOffset: {x: 0, y: 1.25, z: 0}
@@ -274,8 +283,11 @@ MonoBehaviour:
   - 0
   - 0
   attack2DashFrameTimes:
-  - 0
-  - 0
+  - 0.3
+  - 0.3
+  - 0.2
+  - 0.3
+  - 0.4
   hitFrameTimes: []
   deathFrameTimes: []
   attack1Sfx:
