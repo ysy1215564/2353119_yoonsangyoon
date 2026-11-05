@@ -593,7 +593,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
+  m_AnchoredPosition: {x: 14, y: 9}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &907461284
@@ -960,7 +960,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
+  m_AnchoredPosition: {x: -13, y: 9}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1314167295
@@ -1104,7 +1104,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -60, y: -50}
+  m_AnchoredPosition: {x: -13, y: -7.4000244}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1314353523
@@ -1252,8 +1252,98 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 9289d347c7b8385488102f4d7a4beda6, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 442f1273583e21c4d8e0fff3862828ec, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 80775107feb3f1344ba74654675e2b94, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 4959fde1a80ed3642bad14973b7e01f5, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: fd1c4080ba2906b4493a642523ac6566, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 67153ca77fcef6640b4ca0d8082cf79f, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: f3cfd9a67aab28140b8831e234b96bb9, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 3f395986b42d0774c8e7e840fa0029d9, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b49e8c0baec3abd48b77424d61cd87ed, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: d79e78b75e1d112418a43fadf7f5840d, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 671d5341c6ce80747892ba21ba269882, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 5ef1fe9732f05d84eb7723605cf0af14, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: c4fa5e297746a5847a517d88b8bacae7, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 8126be461283d4e4098c31ac02300626, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a2a33a20503d42a4088f4cc8c7916f5e, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 2e0d954edf7b67b4b97a6e9ba8763e97, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: ab21ada0698c0fd44bb70a01a3ee20c3, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 223d6d2e5d8ac7744915c1600a837568, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 2c8a2c2d31097d248bf55d8964c89acf, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a247a131c6ff29e43be4a8b570a949f6, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 4bcb89a5d2a371641a0bca343abfb395, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 19b5d420bb677894789f31560498bcd9, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 167a902bb3d0c2742b26fcb7af794ec2, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: c0d1f6ad8a1a0c7458b14fe917e221bb, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: d16dfcce1529390479d55428d4719fbd, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: faf4fac5c97c50f42bb82203573429a2, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 0d908071d3cfc534fafb9ed191587b53, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 510e43a305ab6464f95265ce61e66bdd, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 8d078dcfd01ba7e49b63db8c437a9f9e, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 799a11605fe47d64f9da39d3a0e1ba3b, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: b0241578edc68c644a408524f2709664, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 10676caefa139c24ba86f14aa9096ec3, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 724d6292262efac4e98cfb80ebd4106a, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 272d97b4d19386f41b357551d7b0ffaa, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a6f5cfbd3f72d94419d776851a987ae4, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 36d24e38876709f42b68098d44684505, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 7ec67dc80ce8a4d43a9b665b03edc634, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 92dd6ea8e0a6dcf449738aaed0ede5eb, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: c0ba7cd75a8ed9946b52cd94da774541, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: eef5745a16d150242bc86dcfb349c8fa, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: e94e2ba52f19d134a9dd117b05f25040, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: c7afc5809fc57964991711ba64ec9503, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 8edeaaa2f7ac6f74db4fc4800780eb14, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 8e1a6d7826b96d24d97dd63a7ad57db2, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 15c211540bd0e1240a0241ad91c2d127, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: f91526fc4615d8e4287dce3ef265934b, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
