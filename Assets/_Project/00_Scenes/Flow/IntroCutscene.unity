@@ -1344,6 +1344,8 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: f91526fc4615d8e4287dce3ef265934b, type: 3}
     video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 9f8149f2e4b22fd4196556214d3e47f1, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967

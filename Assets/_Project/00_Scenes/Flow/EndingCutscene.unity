@@ -444,6 +444,52 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: f39a3318723977746a4b8d70d1364ede, type: 3}
     video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 628f2d36e93a18f4fb2ad5b5579cc1fe, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 925b91ed80f640043b9fab65853f7c51, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: e64c51c1d64ed09418345e0e724341ed, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 54f15f2c23ced4c408fc8b0ff629a49a, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 051982df78b6b7945aff4bcf97a8a4a0, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 7b19028f8eaa62a419fef47bb676f63d, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 8eef3d5171c4f344b90b4580ed2e07d6, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: d7b6fb0cd8722ef41a7514ae5c4e3d54, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a75c9656047ce7f4fbb8f3ac08d9c361, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 4f43dc75dadbe4143a378f313710e2b2, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: ac52bc45838334344909cc4e22d771b8, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 33cb8de47444b9c4fab03377a8465c8e, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 786bdfd85bfb3b2428045e1471aaf0d6, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: fc88704078e928b42a4b36b4dc3b250b, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: fa0cff50cf884c8438b150dd4b86671c, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 5c79d730672950741937bd4960b72630, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 4144aedb73d79b54eb8a5a3827fc694b, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 5ce08dff95e70be45be653d82e914031, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 3690e1bd22d84d34189ae920b3fffec9, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 9a83be1cc67e3dc4bb0f541ef70e5512, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 93d7e7fba61df90439bfda4d207da5e8, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 38679fb520b545d4ca827df76770e973, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 0}
+    video: {fileID: 32900000, guid: b1bb6cb57195f964dbd96b661ff06181, type: 3}
   prevButtonObject: {fileID: 2032162175}
   nextSceneName: Title
 --- !u!4 &420365790
@@ -624,7 +670,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
+  m_AnchoredPosition: {x: -15, y: 7}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &481956467
@@ -768,7 +814,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -60, y: -50}
+  m_AnchoredPosition: {x: -15, y: 0}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &702703578
@@ -1246,7 +1292,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
+  m_AnchoredPosition: {x: 11, y: 7}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &2046976875
