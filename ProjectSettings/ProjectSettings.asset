@@ -167,8 +167,8 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.gamep.actionclass
-    Standalone: com.gamep.actionclass
+    Android: com.gamep.amrita
+    Standalone: com.gamep.amrita
   buildNumber:
     Standalone: 0
     VisionOS: 0
